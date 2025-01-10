@@ -22,8 +22,8 @@ Contributing to data analysis or data visualization projects
 Building creative and innovative web applications
 
 ## 📫 How to reach me...
-Email: jainvanshika0411@gmail.com
-LinkedIn: https://www.linkedin.com/in/vanshika-jain-71b45b2b3/
+.Email: jainvanshika0411@gmail.com
+.LinkedIn: https://www.linkedin.com/in/vanshika-jain-71b45b2b3/
 
 ## 😄 Pronouns:
 He/Him
