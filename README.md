@@ -26,9 +26,6 @@ Email: jainvanshika0411@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/vanshika-jain-71b45b2b3/
 
-## 😄 Pronouns:
-He/Him
-
 ## ⚡ Fun fact:
 I once built a chatbot for my personal website just to automate my social interactions! 😄
 Did you know? The first computer virus, "Creeper," was created in the 1970s and was designed as an experiment to see if a program could spread between computers. It was harmless and just displayed the message: "I'm the creeper, catch me if you can!" 😄
